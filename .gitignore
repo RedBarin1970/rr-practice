@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# Виртуальные окружения
+venv/
+.venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Тесты и покрытие
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Переменные окружения
+.env
+.env.local
+
+# БД
+*.db
+*.sqlite3
+
+# mypy
+.mypy_cache/
+
+# OS
+.DS_Store
+Thumbs.db
